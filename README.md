@@ -1,16 +1,15 @@
-### Hi there 👋
+### Racionais 🫀
 
-<!--
-**NatyT777/NatyT777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu apelido é naty
 
-Here are some ideas to get you started:
+- Estou estudando [Alura](http://www.alura.com.br)
+- Estou me desenvoovendo na Linguagem de JavaScript
+- Ultilizo esse espaço para minha organização e compartilhação dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Você pode entar em contato comigo 📧
+
+  email: costa.natally@escola.pr.gov.br
+
+  instagram: aaa_naty_
+
+  ![](https://media.tenor.com/2jjrFpe6FJMAAAAC/mano-brown-racionais-mcs.gif)
