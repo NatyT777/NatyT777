@@ -1,6 +1,6 @@
-### Racionais 🫀
+### Boas vindas ao meu perfil 🫀
 
-Meu apelido é naty
+Meu nome é Natally 
 
 - Estou estudando [Alura](http://www.alura.com.br)
 - Estou me desenvoovendo na Linguagem de JavaScript
